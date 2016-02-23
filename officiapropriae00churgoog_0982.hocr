@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiapropriae00churgoog_0982.png"; bbox 0 0 2250 3810; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 610 3205 1935 3259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 610 3205 1935 3259">
+     <span class='ocr_line' id='line_1_1' title="bbox 610 3205 1935 3259; baseline 0.002 -9"><span class='ocrx_word' id='word_1_1' title='bbox 610 3209 745 3259; x_wconf 84' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_2' title='bbox 766 3207 991 3251; x_wconf 81' lang='lat' dir='ltr'>Societatis</span> <span class='ocrx_word' id='word_1_3' title='bbox 1011 3208 1054 3250; x_wconf 87' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1077 3206 1261 3259; x_wconf 84' lang='lat' dir='ltr'>Joannis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1293 3207 1459 3258; x_wconf 68' lang='lat' dir='ltr'>Evang.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1481 3228 1532 3237; x_wconf 94' lang='lat'><strong>—</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1553 3205 1935 3252; x_wconf 66' lang='lat' dir='ltr'>Rome-Tornad.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 3282 2080 3340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 3282 2080 3340">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 3282 2080 3340; baseline 0 470"><span class='ocrx_word' id='word_1_8' title='bbox 455 3282 2080 3340; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
